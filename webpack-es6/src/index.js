@@ -1,0 +1,1 @@
+document.write("Hi webpack4 + ES6!");

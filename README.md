@@ -21,5 +21,6 @@ webpack 4 ：从0配置到项目搭建
 
 ### 感谢 
 > https://phoebecodespace.github.io/2018/07/04/webpack-4-tutorial/
+  https://segmentfault.com/a/1190000014466696?utm_source=index-hottest/*&^%$#articleHeader5
 
 
